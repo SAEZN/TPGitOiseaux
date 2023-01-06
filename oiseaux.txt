@@ -12,4 +12,5 @@ toto
 
 Rossignol
 martinet
-
+Foulque	macroule
+Outarde	canepetière
